@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(184, 220, 243);
+    min-width: 100%;
+    margin: auto;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(8, 135, 194);
+    width: 100%;
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.footer {
+    display: flex;
+    background-color: rgb(8, 135, 194);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.div1 {
+    display: flex;
+    position: relative;
+    background-color: rgb(9, 114, 163);
+    width: 55%;
+    height: 400px;
+    left: 80px;
+    top: 40px;
+}
+
+.div2 {
+    display: flex;
+    position: relative;
+    background-color: rgb(9, 114, 163);
+    width: 55%;
+    height: 400px;
+    right: 80px;
+    top: 80px;
+    float: right;
+}
+
+/*.div3 {
+    display: flex;
+    position: relative;
+    background-color: rgb(9, 114, 163);
+    width: 100%;
+    height: 300px;
+    right: 0px;
+    top: 150px;
+}
