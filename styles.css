@@ -70,6 +70,10 @@
     border-radius: 50px;
 }
 
+.liststylepos {
+    list-style-position: inside
+}
+
 .divs div{
     display: flex;
     position: relative;
@@ -97,7 +101,7 @@
     position: absolute;
 }
 
-div img:hover {
+.divs div img:hover {
     opacity: 0;
     transition: 1s;
 }
