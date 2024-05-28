@@ -154,3 +154,11 @@
 .Footer .tel {
     margin-top: 110px;
 }
+
+.Shadow {
+    box-shadow: 15px 15px 30px rgb(0, 116, 139);
+}
+
+.Shadow2 {
+    box-shadow: 0 4px 8px 0 rgb(0, 116, 139), 0 6px 20px 0 rgb(0, 116, 139);
+}
